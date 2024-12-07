@@ -4,7 +4,7 @@ A simple and interactive quiz application built with **React**, designed to test
 
 ---
 
-# Features
+# ✨Features
 
 - **Dynamic Questions**: Questions are fetched dynamically from a local data source (data.js).
 - **Answer Validation**: Displays immediate feedback (correct/incorrect) after a user selects an answer.
@@ -15,9 +15,14 @@ A simple and interactive quiz application built with **React**, designed to test
 
 ---
 
-# Technologies Used
+# 💻Technologies Used
 
 - **React**: Front-end library for building user interfaces.
 - **JavaScript (ES6+)**: For dynamic functionality.
 - **HTML5**: Markup language for structuring content.
 - **CSS3**: Styling and layout.
+
+---
+
+## 🌐 Live Demo
+   **Quiz App** - [Click here](https://project-02-quiz-app.vercel.app/)
